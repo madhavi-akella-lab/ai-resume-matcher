@@ -7,7 +7,7 @@
 
 > **Paste your resume and a job description. Get an instant AI-powered match score, skill gap analysis, and actionable improvement suggestions.**
 
-🔗 **[Live Demo](https://your-app-link.streamlit.app)**
+🔗 **[Live Demo](https://ai-resume-matcher-vsmxaig3vfeer7unne8ycm.streamlit.app)**
 
 ---
 
